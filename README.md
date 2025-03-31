@@ -32,7 +32,9 @@ Upbit & Bithumb의 거래 데이터를 활용하여 VIP 고객(Whale, HFT 등)�
 | 1번 | 4.7M KRW | 44.9M KRW | 2.1B KRW | 매우 높은 코인가격에서 거래 (특정 고가 코인 집중 거래) |
 | 2번 | 12.5M KRW | 34.0M KRW | 9.4M KRW | 고액 거래 (Whale 가능성) |
 | 3번 | 8.2M KRW | 66.9M KRW | 7.8B KRW | Market Maker 가능성 (고액 거래를 통한 유동성 공급?) |
-| 4번 | 55.6M KRW | 325.9M KRW | 178K KRW | 초대형 개별 거래 (OTC 가능성) |
+| 4번 | 55.6M KRW | 325.9M KRW | 178K KRW | 초대형 개별 거래 (OTC 가능성) |  
+
+![image](https://github.com/user-attachments/assets/6832075d-e0be-4fb1-801c-004188d65d1d)
 
 
 ### 5-2 클러스터별 주요 거래 코인
